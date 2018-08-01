@@ -1,0 +1,6 @@
+
+
+git branch
+
+Para cambiarse a otra rama
+git checkout -b 'development'
